@@ -1,0 +1,34 @@
+.flex{
+    display: flex;
+}
+.block{
+    display: block;
+}
+.aic{
+    align-items: center;
+}
+.jcc{
+    justify-content: center;
+}
+.sb{
+    justify-content: space-between;
+}
+.se{
+    justify-content: space-evenly;
+}
+.sa{
+    justify-content: space-around;
+}
+.text-center{
+    text-align: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.f-14_mx-9{
+    font-size: 14px;
+    margin: 0 9px;
+}
+.hidden{
+    overflow: hidden;
+}
